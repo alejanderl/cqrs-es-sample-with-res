@@ -67,7 +67,7 @@ GEM
       msgpack (~> 1.0)
     bounded_context (0.39.0)
     builder (3.2.3)
-    byebug (10.0.2)
+    byebug (11.0.1)
     capybara (3.12.0)
       addressable
       mini_mime (>= 0.1.3)
